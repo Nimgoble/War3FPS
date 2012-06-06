@@ -1,0 +1,31 @@
+Animated human arms with M-16 for First Person games.
+
+Model has 4,644 polygons and 4,974 vertexes.
+
+Pack include 10 animations:
+
+1) M16_activate: 1 – 25 fr.,
+2) M16_change_weapon: 26 – 76 fr.,
+
+3) M16_idle: 77 – 127 fr.,
+
+4) M16_fire: 128 – 143 fr.,
+5) M16_fire(rifle_empty): 144 – 159 fr.,
+
+6) M16_reload: 160 – 300 fr.,
+
+7) M16_walking: 301 – 337 fr.,
+8) M16_Runing: 338 – 360 fr.,
+9) M16_Runing_sprint: 361 – 379 fr.,
+
+10) M16_deactivate: 380 – 405 fr.,
+
+Preview can be found here: http://www.youtube.com/user/MycroSlonik#p/a/u/0/1logp_Xjar4
+
+2048 x 2048 diffuse, specular and normal texture maps for hands and rifle. 
+
+Notes and animation timing list.
+
+Gun, rifle, m-16, shooter, first person, FPS, game, weapons, lowpoly, military, shader, realistic, military, army 
+
+ 

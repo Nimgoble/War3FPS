@@ -1,0 +1,29 @@
+Animated Hitman Terrorist
+
+Model has 706 polygons. 
+
+Texture 1024x1024 TIF file format.
+
+<a href="http://www.youtube.com/watch?v=ylhELl_rb-E">See it on video!</a>
+Animatons list:
+
+1) staying: 0 – 49 fr.,
+2) fire_standing: 50 - 89 fr.,
+3) running: 90 – 111 fr.,
+4) walking: 112 – 147 fr.,
+5) grenade_throw: 148 – 187 fr.,
+6) hide_behind_wall: 188 – 213 fr.,
+7) from_standing_to_squat: 214 – 241 fr.,
+8) fire_sguating:242 – 291 fr.,
+2) from_sguating_to_stend: 292 – 313 fr.,
+10) jump_down: 314 – 359 fr.,
+11) fire_lying: 360 – 379 fr.,
+12) stand_up:380 – 425 fr.,
+13) daying_on_belt: 426 - 532 fr.,
+14) daying_on_spin: 533 – 568 fr.,
+15) jump: 569 – 614 fr.,
+
+If you have any question, please, mail me: mr.necturus@gmail.com
+
+
+Low polygonal model Hitman terrorist soldier video game simulation war RTS MMO I-phone military army game ready animated character animated model

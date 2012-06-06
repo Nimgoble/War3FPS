@@ -1,0 +1,33 @@
+Animated human arms for First Person Shuter games.
+
+Model has 3,555 polygons and 3,652 vertexes.
+
+Here you can see animated preview: http://www.youtube.com/user/MycroSlonik#p/a/u/0/DO1o7lxnEdg
+
+1. 10 animations:
+
+	1) Beretta_activate: 1 – 25 fr.,
+	2) Beretta_change_weapon: 26 – 76 fr.,
+
+	3) Beretta_idile_staing: 77 – 127 fr.,
+
+	4) Beretta_fire: 128 – 143 fr.,
+	5) Beretta_fire (gun empty): 144 – 159 fr.,
+
+	6) Beretta_reload: 160 – 225 fr.,
+
+	7) Beretta_walking: 226 – 262 fr.,
+	8) beretta_run: 263 – 285 fr.,
+	9) beretta_run_sprint: 286 – 304 fr.,
+
+	10) Beretta_deactivate: 305 – 330 fr.,
+
+
+
+2. 2048 x 2048 diffuse, specular and normal texture maps for hands and pistol. and 512 x 512 for bullets.
+
+
+
+Gun, Beretta, shooter, first person, FPS, game, weapons, lowpoly, military hand gun, pistol, shader, realistic 
+
+ 
