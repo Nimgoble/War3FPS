@@ -22,12 +22,12 @@ public class NetworkLevelLoad : MonoBehaviour
 		{
 			Network.RemoveRPCsInGroup(0);
 			Network.RemoveRPCsInGroup(1);
-			networkView.RPC("LoadLevel", RPCMode.AllBuffered, "Main Game", lastLevelPrefix + 1);
+			networkView.RPC("LoadLevel", RPCMode.AllBuffered, "MainGame", lastLevelPrefix + 1);
 		}
 	}
 	
 	[RPC]
-	void LoadLevel(string level, int levelPrefix)
+	public void LoadLevel(string level, int levelPrefix)
 	{
 		Debug.Log("Loading level " + level + " with prefix " + levelPrefix.ToString());
 		lastLevelPrefix = levelPrefix;
@@ -59,7 +59,7 @@ public class NetworkLevelLoad : MonoBehaviour
 			trans.SendMessage("OnNetworkLoadedLevel", SendMessageOptions.DontRequireReceiver);
 	}
 	
-	void OnDisconnectedFromServer()
+	public void OnDisconnectedFromServer()
 	{
 		Application.LoadLevel("EmptyScene");
 	}
