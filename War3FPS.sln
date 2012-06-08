@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{C1FCA06D-97ED-AA84-9550-B0C59B5B516A}") = "War3FPS", "Assembly-CSharp-firstpass.csproj", "{05E40EA5-A305-36D3-8C85-C6FDA66B16BD}"
 EndProject
+Project("{C1FCA06D-97ED-AA84-9550-B0C59B5B516A}") = "War3FPS", "Assembly-CSharp.csproj", "{D7C64086-9C59-6B4F-B3CD-9BF865A347B1}"
+EndProject
 Project("{C1FCA06D-97ED-AA84-9550-B0C59B5B516A}") = "War3FPS", "Assembly-UnityScript-firstpass.unityproj", "{5EBF8733-A695-B3E1-B840-BF8858FB01A7}"
 EndProject
 Project("{C1FCA06D-97ED-AA84-9550-B0C59B5B516A}") = "War3FPS", "Assembly-UnityScript.unityproj", "{1BE139FF-684B-D1B5-58AE-CF5DB9D90A43}"
@@ -17,6 +19,10 @@ Global
 		{05E40EA5-A305-36D3-8C85-C6FDA66B16BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E40EA5-A305-36D3-8C85-C6FDA66B16BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E40EA5-A305-36D3-8C85-C6FDA66B16BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C64086-9C59-6B4F-B3CD-9BF865A347B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C64086-9C59-6B4F-B3CD-9BF865A347B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C64086-9C59-6B4F-B3CD-9BF865A347B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C64086-9C59-6B4F-B3CD-9BF865A347B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5EBF8733-A695-B3E1-B840-BF8858FB01A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5EBF8733-A695-B3E1-B840-BF8858FB01A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EBF8733-A695-B3E1-B840-BF8858FB01A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+					GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -47,4 +53,5 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
+
 EndGlobal

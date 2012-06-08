@@ -1,8 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FPS_M_16\FPS_m16_notes.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu.cs">
     <Files>
+      <File FileName="Assets\Scripts\ConnectionGUI.cs" Line="52" Column="15" />
       <File FileName="Assets\FPS_M_16\FPS_m16_notes.txt" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Instantiate.cs" Line="21" Column="60" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="28" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
